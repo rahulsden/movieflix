@@ -2,3 +2,28 @@
 #Owner - Rahul Gupta
 #Contact - rahulgupta999@gmail.com
 
+HOW TO DOWNLOAD
+-------------------------------
+Clone the GIT repository: https://github.com/rahulsden/movieflix
+It contains the following files
+a) README
+b) entertainment_center.py
+c) fresh_tomatoes.py
+d) media.py
+
+HOW TO RUN
+-------------------------------
+a) Install Python 2.5 or above from https://www.python.org/
+b) Run using ./entertainment_center.py
+
+This should open the webpage in your default internet browser.
+The HTML file is generated in the same directory with the name of fresh_tomatoes.html
+
+ADD/EDIT MORE MOVIES
+--------------------------------
+a) Open the file entertainment_center.py in text editor
+b) Edit the function 'add_fav_movies'. Add more objects of 'Movie' class in the similar manner as exisiting
+
+PROJECT DESCRIPTION
+--------------------------------
+https://docs.google.com/document/d/1joDQNQl_4icYYm6tM_F9ch5hZEH_f157hlljSUGOLWs/pub?embedded=true 

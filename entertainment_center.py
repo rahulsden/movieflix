@@ -3,6 +3,7 @@ from media import Movie
 from fresh_tomatoes import *
 
 #function to add the favourite movies in the list
+#create object of class 'Movie' and append in the input list argument 'movie_list'
 def add_fav_movies(movie_list):
 	movie_list.append(Movie("The Shawshank Redemption",
 					  "http://ia.media-imdb.com/images/M/MV5BODU4MjU4NjIwNl5BMl5BanBnXkFtZTgwMDU2MjEyMDE@._V1__SX727_SY685_.jpg",
@@ -20,8 +21,11 @@ def add_fav_movies(movie_list):
 					  "https://www.youtube.com/watch?v=EXeTwQWrcwY"
 					  ))
 
+	#add more movies here
 
-#create a favourite movie list
+
+
+#create an empty favourite movie list
 my_fav_movie_list = [];
 
 # call function to add the movies in the list

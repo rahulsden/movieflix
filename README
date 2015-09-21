@@ -14,7 +14,10 @@ d) media.py
 HOW TO RUN
 -------------------------------
 a) Install Python 2.5 or above from https://www.python.org/
-b) Run using ./entertainment_center.py
+b) Change directory to the physical directory where project files have been cloned
+c) Set the file to allow execution (chmod +x entertainment_center.py)
+d) Edit the file 'entertainment_center.py' to add first line as '#!/usr/bin/env python' 
+e) Run using ./entertainment_center.py
 
 This should open the webpage in your default internet browser.
 The HTML file is generated in the same directory with the name of fresh_tomatoes.html
